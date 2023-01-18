@@ -6,4 +6,4 @@ Contrary to conventional thinking, there does not appear to be a positive correl
 
 More than school type or spending it appears that large school size has a larger negative effect on average math, reading, and overall passing rates (as shown in the "size_summary" data frame).
 
-Instead of cutting budgets of public schools that have poor assing rates, this analysis highlights that schools should focus their resources on hosting smaller class sizes to increasse their passing rates- not punishing large public schools with less funding.
+Instead of cutting budgets of public schools that have poor passing rates, this analysis highlights that legislators and school administrators should focus their resources on hosting smaller class sizes to increasse their passing rates- not punishing large public schools with less funding.
